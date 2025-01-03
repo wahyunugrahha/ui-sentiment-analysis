@@ -23,7 +23,7 @@
    - Masuk ke folder `indonlu` dan jalankan:
      ```bash
      cd indonlu
-     pip install -r requirements.txt
+     pip install -r requirement.txt
      ```
 
 ### Additional Requirements
